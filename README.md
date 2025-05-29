@@ -13,8 +13,7 @@ The displayed Arabic text is also a reminder for the user to send Salawat on our
 _“The closest of people to me on the Day of Resurrection are those who sent the most blessings upon me.” — Prophet Muhammad ﷺ, Sunan al-Tirmidhī 484_
 
 This extension is designed to:
-- Foster love for the Prophet ﷺ
-- Share authentic knowledge about him ﷺ in a subtle and convenient manner
+- Provide a simple way to foster love for the Prophet ﷺ and learn more about him ﷺ in a subtle and convenient manner
 - Offer a reminder of the best of creation - a breath of fresh air amidst the noise of the internet
 
 ---
@@ -51,9 +50,10 @@ Until it's published, you can install it manually:
 
 ## 🤲 Motivation
 
-This extension was created out of a desire to help myself and others learn to increase in love for the Prophet ﷺ and act more like him - in a small, consistent way.
+This extension was created out of a desire to help myself and others learn to increase in love for the Prophet ﷺ and act more like him - in a subtle, consistent way.
 _The Prophet (ﷺ) was asked, "What deeds are loved most by Allah?" He said, "The most regular constant deeds even though they may be few." -Sahih al-Bukhari 6465_
-May Allah accept this effort, make it a means of increasing our attachment to His Messenger ﷺ, following in his footsteps, and allow it to be a source of benefit and reward.
+It is my hope that if we can learn more about his characteristics, we can model them ourselves, and become tools for positive influence to society the way that he ﷺ was.
+May Allah accept this effort, make it a means of following the footsteps of and growing in attachment to His Messenger ﷺ, and allow it to be a source of benefit and reward.
 
 ---
 
