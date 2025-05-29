@@ -14,7 +14,7 @@ _“The closest of people to me on the Day of Resurrection are those who sent th
 
 This extension is designed to:
 - Provide a simple way to foster love for the Prophet ﷺ and learn more about him ﷺ in a subtle and convenient manner
-- Offer a reminder of the best of creation - a breath of fresh air amidst the noise of the internet
+- Offer a simple reminder of the best of mankind - a breath of fresh air amidst the noise of the internet
 
 ---
 
