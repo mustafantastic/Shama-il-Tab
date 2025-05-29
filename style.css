@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  color: #fff;
+  height: 100vh;
+  background-color: #000; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#container {
+  background: rgba(0, 0, 0, 0.25); 
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 30px;
+  max-width: 700px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.salawat-title {
+  font-size: 1.8em;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-align: center;
+  direction: rtl;
+  color: #fff;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); 
+  font-family: 'Scheherazade New', serif;
+}
+
+
+#hadith {
+  font-size: 1.6em;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); 
+  font-family: 'Lora', serif;
+}
+
+#reference {
+  font-size: 0.9em;
+  color: #ccc;
+  text-decoration: underline;
+}
