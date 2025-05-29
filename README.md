@@ -1,6 +1,6 @@
 # 🌟 Shama'il Tab — Chrome Extension
 
-**A browser experience that displays a hadith of/about Prophet Muhammad ﷺ from the Shama'il Muhammadiyah.**  
+**A browser experience that displays a hadith of/about Prophet Muhammad ﷺ from the Shama'il Muhammadiyah with each new tab.**  
 A reminder of his beautiful character, meant to help users grow in love, understanding, and connection with the Messenger of Allah ﷺ.
 
 ---
