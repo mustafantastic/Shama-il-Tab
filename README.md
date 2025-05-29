@@ -65,7 +65,8 @@ All hadith references include a direct link to [Sunnah.com](https://sunnah.com),
 
 ## 📜 License
 
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 ---
 
