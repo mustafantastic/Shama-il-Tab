@@ -23,7 +23,7 @@ This extension is designed to:
 ### ✅ Chrome Web Store
 
 Once approved, the extension will be available for easy installation here:  
-👉 **[Chrome Web Store — Coming Soon]**
+👉 **[(https://chromewebstore.google.com/detail/shamail-tab/nipffmdgdidphegnlffbmmpbkfelifie)]**
 
 ### 🧪 Manual Installation (for developers/testers)
 
